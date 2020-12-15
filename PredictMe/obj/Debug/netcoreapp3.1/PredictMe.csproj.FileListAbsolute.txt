@@ -52,3 +52,6 @@ C:\Users\kiril\source\repos\PredictMe\PredictMe\bin\Debug\netcoreapp3.1\runtimes
 C:\Users\kiril\source\repos\PredictMe\PredictMe\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
 C:\Users\kiril\source\repos\PredictMe\PredictMe\bin\Debug\netcoreapp3.1\PredictMeML.Model.dll
 C:\Users\kiril\source\repos\PredictMe\PredictMe\bin\Debug\netcoreapp3.1\PredictMeML.Model.pdb
+C:\Users\kiril\source\repos\PredictMe\PredictMe\bin\Debug\netcoreapp3.1\MLModels\MLModel.zip
+C:\Users\kiril\source\repos\PredictMe\PredictMe\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ML.dll
+C:\Users\kiril\source\repos\PredictMe\PredictMe\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll

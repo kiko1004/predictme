@@ -1,13 +1,10 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using Microsoft.Extensions.ML;
+using PredictMe.DataModels;
 
 namespace PredictMe
 {
@@ -24,6 +21,8 @@ namespace PredictMe
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            services.AddPredictionEnginePool<SentimentData, SentimentPrediction>()
+    .FromFile(modelName: "SentimentAnalysisModel", filePath: "MLModels/MLModel.zip", watchForChanges: true);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
