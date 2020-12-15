@@ -54,3 +54,4 @@ C:\Users\kiril\source\repos\PredictMe\PredictMe\obj\Release\netcoreapp3.1\Predic
 C:\Users\kiril\source\repos\PredictMe\PredictMe\obj\Release\netcoreapp3.1\PredictMe.dll
 C:\Users\kiril\source\repos\PredictMe\PredictMe\obj\Release\netcoreapp3.1\PredictMe.pdb
 C:\Users\kiril\source\repos\PredictMe\PredictMe\obj\Release\netcoreapp3.1\PredictMe.genruntimeconfig.cache
+C:\Users\kiril\source\repos\PredictMe\PredictMe\bin\Release\netcoreapp3.1\Models\MLModel.zip

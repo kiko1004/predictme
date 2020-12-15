@@ -38,6 +38,7 @@ C:\Users\kiril\source\repos\PredictMe\PredictMe\obj\Release\netcoreapp3.1\PubTmp
 C:\Users\kiril\source\repos\PredictMe\PredictMe\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery\LICENSE.txt
 C:\Users\kiril\source\repos\PredictMe\PredictMe\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
 C:\Users\kiril\source\repos\PredictMe\PredictMe\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\kiril\source\repos\PredictMe\PredictMe\obj\Release\netcoreapp3.1\PubTmp\Out\Models\MLModel.zip
 C:\Users\kiril\source\repos\PredictMe\PredictMe\obj\Release\netcoreapp3.1\PubTmp\Out\PredictMe.dll
 C:\Users\kiril\source\repos\PredictMe\PredictMe\obj\Release\netcoreapp3.1\PubTmp\Out\PredictMe.deps.json
 C:\Users\kiril\source\repos\PredictMe\PredictMe\obj\Release\netcoreapp3.1\PubTmp\Out\PredictMe.runtimeconfig.json
