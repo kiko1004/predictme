@@ -1,0 +1,4 @@
+C:\Users\kiril\source\repos\PredictMe\PredictMeML.ConsoleApp\obj\Debug\netcoreapp3.1\PredictMeML_Boxing.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\kiril\source\repos\PredictMe\PredictMeML.ConsoleApp\obj\Debug\netcoreapp3.1\PredictMeML_Boxing.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\kiril\source\repos\PredictMe\PredictMeML.ConsoleApp\obj\Debug\netcoreapp3.1\PredictMeML_Boxing.ConsoleApp.AssemblyInfo.cs
+C:\Users\kiril\source\repos\PredictMe\PredictMeML.ConsoleApp\obj\Debug\netcoreapp3.1\PredictMeML_Boxing.ConsoleApp.csproj.CoreCompileInputs.cache

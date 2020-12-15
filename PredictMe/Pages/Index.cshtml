@@ -1,0 +1,35 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<h1>Boxing Demo</h1>
+
+<form method="post">
+    <div class="mb-3">
+        <label for="Fage" class="form-label">First boxer's age</label>
+        <input type="text" name="Fage" class="form-control" id="winsBox1" >
+       
+    </div>
+    <div class="mb-3">
+        <label for="Frank" class="form-label">Rank boxing one</label>
+        <input type="text" name="Frank" class="form-control" id="Frank" >
+       
+    </div>
+    <div class="mb-3">
+        <label for="Sage" class="form-label">Second boxer's age</label>
+        <input type="text" name="Sage" class="form-control" id="Sage">
+    </div>
+    <div class="mb-3">
+        <label for="Srank" class="form-label">Rank boxing two</label>
+        <input type="text" name="Srank" class="form-control" id="Srank">
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+
+
+<h1>The result is here:</h1>
+<h2>@Model.Result</h2>

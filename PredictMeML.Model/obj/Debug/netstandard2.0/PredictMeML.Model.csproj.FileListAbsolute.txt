@@ -1,0 +1,10 @@
+C:\Users\kiril\source\repos\PredictMe\PredictMeML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\kiril\source\repos\PredictMe\PredictMeML.Model\bin\Debug\netstandard2.0\PredictMeML.Model.deps.json
+C:\Users\kiril\source\repos\PredictMe\PredictMeML.Model\bin\Debug\netstandard2.0\PredictMeML.Model.dll
+C:\Users\kiril\source\repos\PredictMe\PredictMeML.Model\bin\Debug\netstandard2.0\PredictMeML.Model.pdb
+C:\Users\kiril\source\repos\PredictMe\PredictMeML.Model\obj\Debug\netstandard2.0\PredictMeML.Model.AssemblyInfoInputs.cache
+C:\Users\kiril\source\repos\PredictMe\PredictMeML.Model\obj\Debug\netstandard2.0\PredictMeML.Model.AssemblyInfo.cs
+C:\Users\kiril\source\repos\PredictMe\PredictMeML.Model\obj\Debug\netstandard2.0\PredictMeML.Model.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\PredictMe\PredictMeML.Model\obj\Debug\netstandard2.0\PredictMeML.Model.dll
+C:\Users\kiril\source\repos\PredictMe\PredictMeML.Model\obj\Debug\netstandard2.0\PredictMeML.Model.pdb
+C:\Users\kiril\source\repos\PredictMe\PredictMeML.Model\obj\Debug\netstandard2.0\PredictMeML.Model.csprojAssemblyReference.cache
