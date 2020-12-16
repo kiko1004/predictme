@@ -55,3 +55,4 @@ C:\Users\kiril\source\repos\PredictMe\PredictMe\bin\Debug\netcoreapp3.1\PredictM
 C:\Users\kiril\source\repos\PredictMe\PredictMe\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ML.dll
 C:\Users\kiril\source\repos\PredictMe\PredictMe\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
 C:\Users\kiril\source\repos\PredictMe\PredictMe\bin\Debug\netcoreapp3.1\Models\MLModel.zip
+C:\Users\kiril\source\repos\PredictMe\PredictMe\obj\Debug\netcoreapp3.1\Razor\Pages\Stocks.cshtml.g.cs
